@@ -6,4 +6,5 @@
 * Information about the current use
 
 ## About Computer Operating System:
-![Screenshot (861)](https://user-images.githubusercontent.com/84233147/136544565-ef20049d-6492-4f04-b63a-ad0a8bf31438.png)
+![Screenshot (860)](https://user-images.githubusercontent.com/84233147/136544819-786f3a21-b975-4be3-809c-faa73939cbc6.png)
+
